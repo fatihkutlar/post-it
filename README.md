@@ -11,10 +11,6 @@ Bu proje, basit ve kullanıcı dostu bir not alma uygulamasını içerir. HTML, 
 - Notları tarihe göre sıralama
 - XSS koruması
 
-## Ekran Görüntüleri
-
-[Ekran görüntüleri buraya eklenecek]
-
 ## Nasıl Kullanılır
 
 1. Not başlığı ve içeriğini girin
@@ -22,13 +18,6 @@ Bu proje, basit ve kullanıcı dostu bir not alma uygulamasını içerir. HTML, 
 3. Eklenen notlar alt kısımda görüntülenecektir
 4. Notları düzenlemek için düzenleme (kalem) simgesine tıklayın
 5. Notları silmek için silme (çöp kutusu) simgesine tıklayın
-
-## Teknolojiler
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- LocalStorage API
 
 ## Kurulum
 
